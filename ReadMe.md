@@ -2,11 +2,11 @@
 
 # 정리
 
-[스레드와 프로세스](https://www.notion.so/e0c9f0b2931247f890540d683afdf20a)
+[스레드와 프로세스](./스레드와_프로세스/스레드와_프로세스.md)
 
-[코드, 데이터, 스택, 힙 영역](https://www.notion.so/6f57a34cddbc4ffebc39dd99d3ee316b)
+[코드, 데이터, 스택, 힙 영역](./코드_데이터_스택_힙_영역/코드_데이터_스택_힙_영역.md)
 
-[Java: Garbage Collection 개념 및 동작 원리](https://www.notion.so/Java-Garbage-Collection-751cdc4f502e42feb9029ec033f7c8c6)
+[Java: Garbage Collection 개념 및 동작 원리](./Java-Garbage_Collection_개념_및_동작_원리/Java_Garbage_Collection_개념_및_동작_원리.md)
 
 # 참고 블로그
 
