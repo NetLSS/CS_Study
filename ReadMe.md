@@ -12,6 +12,8 @@
 
 [얕은 복사와 깊은 복사](얕은복사_깊은복사/shallow-copy_deep-copy.md)
 
+[equals, hash code](#)
+
 # 참고
 
 [패스트 캠퍼스 - 알고리즘 / 기술면접 강의](#)
